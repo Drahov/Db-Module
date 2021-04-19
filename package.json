@@ -1,0 +1,27 @@
+{
+  "name": "dbmodule",
+  "version": "1.0.0",
+  "description": "Db Module Powered By json files",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpyigit1903/Db-Module.git"
+  },
+  "keywords": [
+    "Db",
+    "Module"
+  ],
+  "author": "Drahov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpyigit1903/Db-Module/issues"
+  },
+  "homepage": "https://github.com/alpyigit1903/Db-Module#readme"
+}
